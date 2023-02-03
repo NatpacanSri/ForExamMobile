@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intentTest</string>
+    <string-array name="model" >
+        <item>Iphone14</item>
+        <item>Iphone14pro</item>
+        <item>Iphone14proMax</item>
+    </string-array>
+</resources>
